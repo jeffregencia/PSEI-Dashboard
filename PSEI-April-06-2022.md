@@ -21,4 +21,4 @@ This dashboard presents the following:
 
 DISCLAIMER:
 
-This is strictly for educational purposes only. Nothing I publish should be interpreted as investment advice. DYOR. Make sure to seek advice from your market advisor.  It's your money. It's your risk.
+This is strictly for educational purposes only. Nothing I publish should be interpreted as an investment advice. Please do your own research. Your money, your risk.
