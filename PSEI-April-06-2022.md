@@ -24,3 +24,8 @@ This dashboard presents the following:
 DISCLAIMER:
 
 This is strictly for educational purposes only. Nothing I publish should be interpreted as an investment advice. Please do your own research. Your money, your risk.
+
+Applications used: 
+- TradingView - for gathering datasets
+- Microsoft Excel - for cleaning and transforming data
+- Microsoft PowerBI - for visualizing data
