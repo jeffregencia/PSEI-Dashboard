@@ -9,7 +9,8 @@ This dashboard presents the following:
 5. Momentum vs Volatility vs Trend
 6. Stocks Trend Status
 
-![PSEI Dashboard 6 Apr 22](https://user-images.githubusercontent.com/103119533/162145899-6eff1086-00da-4b98-9946-90be769a0ef9.PNG)
+![PSEI Dashboard 6 Apr 22](https://user-images.githubusercontent.com/103119533/162154267-7839030d-58d6-4663-881c-2d135c29e60c.PNG)
+
 
 - Stocks filtered as follows:
   - Volume: 1000000
@@ -18,6 +19,7 @@ This dashboard presents the following:
 - Most stocks drops from previous day close (52% of total number of stocks). 
 - Mining stocks $BC, $BCB, $SCC, $NIKL, $FNI, and $MARC including $ATN, and $SPNEC leads in year-to-date perfomance. $CAB and $VMC leads in weekly performance of the Industrials sector. $BC and $BCB leads in weekly performance of the Mining & Oil sector. $APL is the most lagging stock with -43.750% YTD. $PRMX of the Property sector lags weekly performance with -16.670%.
 - $BC has the highest momentum rating while $DDMPR has the lowest. $VLL has the highest volatility rating while $ABSP has the lowest. 
+- 50% of PSEI stocks still in downtrend. 32% are in uptrend.
 
 DISCLAIMER:
 
