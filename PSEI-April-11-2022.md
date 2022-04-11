@@ -17,8 +17,9 @@ Analysis:
 4. Stocks Trend Status
 	- 53.19% of the total no. of filtered stocks (50 out of 94) are still on a downtrend. $SM still has the highest traded value among the down-trending stocks. 30.85% of the total no. of filtered stocks (29 out of 94) are on an uptrend. $BPI now has the highest traded value among the up-trending stocks. 15.96% of the stocks have no trend. $CNVRG still has the highest traded value among the 15.96%.
 5. YTD vs Weekly Performance
-	- Stocks have an average of -1.237% YTD performance higher than the previous trading session -1.899% and -1.51% Weekly performance lower than yesterday’s -0.72%. Both intersect at the quadrant 3/lagging area. $ATN has the highest YTD% performance (48.72%) among the 94 filtered stocks while $APL has the lowest (-42.50%). $NOW has the highest Weekly% performance (14.66%) while $EEI has the lowest (-16.79%).
-
+	- Stocks have an average of -1.237% YTD performance higher than the previous trading session -1.899% and -1.51% Weekly performance lower than last Firday’s -0.72%. Both intersect at the quadrant 3/lagging area. $ATN has the highest YTD% performance (48.72%) among the 94 filtered stocks while $APL has the lowest (-42.50%). $NOW has the highest Weekly% performance (14.66%) while $EEI has the lowest (-16.79%).
+6. Momentum vs Volatility vs Trend
+	- Stocks have an average of 24.08 Volatility rating (low volatility) lower than las Friday’s 23.94 rating and 47.13 Momentum rating (downside momentum) higher than last Friday’s 47.06 rating. $DDMPR now has the highest volatility rating (58.30) among the 94 filtered stocks while $ABSP still has the lowest (8.30). $BC has the highest momentum rating (73.31) among the 94 filtered stocks while $EEI has the lowest (18.75).
 
 
 
