@@ -1,5 +1,5 @@
 # PSEI Dashboard
-8 April 2022, Wednesday
+8 April 2022, Friday
 
 ![PSEI Dashboard 8 Apr 22](https://user-images.githubusercontent.com/103119533/162440498-ab6850e0-3f61-49fb-9bd6-98e5f1469ee9.PNG)
 
