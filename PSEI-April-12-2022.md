@@ -10,7 +10,7 @@
 
 **1. Value Traded by Sector**
 
-Market activity rises from yesterday's trading session. From the previous traded value of PHP3.14bn, it increased to PHP4.51bn. The Services sector now ranks 1 in market activity surpasses the Holding Firms sector. From rank 4 yesterday, the Property sector crossed above the Financials sector.
+Market activity rises from yesterday's trading session. From the previous traded value of PHP3.14bn, it increased to PHP4.51bn. The Services sector now ranks 1 in market activity surpassing the Holding Firms sector. From rank 4 yesterday, the Property sector crossed above the Financials sector.
 
 ![image](https://user-images.githubusercontent.com/103119533/162973291-d0231c49-ccea-4db3-9ecd-9baa8bb27a7a.png)
 
@@ -31,7 +31,7 @@ $ICT, $SM, $ALI, $MER, $BPI, and $SCC lead their respective sectors. $ALI has th
 
 **4. Stocks Trend Status**
 
-55.91% of the total no. of filtered stocks (52 out of 93) are still on a downtrend. $ALI still has the highest traded value among the down-trending stocks. 27.96% of the total no. of filtered stocks (26 out of 93) are on an uptrend. $BPI still has the highest traded value among the up-trending stocks. 16.13% of the stocks have no trend. $CNVRG still has the highest traded value among this category.
+55.91% of the total no. of filtered stocks (52 out of 93) are still on a downtrend. $ALI still has the highest traded value among the down-trending stocks. 27.96% of the total no. of filtered stocks (26 out of 93) are on an uptrend. $BPI still has the highest traded value among the up-trending stocks. 16.13% of the stocks have no trend. $CNVRG still has the highest traded value in this category.
 
 ![image](https://user-images.githubusercontent.com/103119533/162981306-95000b88-b8a7-4e5c-8096-c580199d9f40.png)
 ![image](https://user-images.githubusercontent.com/103119533/162980219-f3f6c7a6-57a8-4d62-b3c0-566e3c75f869.png)
@@ -44,7 +44,7 @@ $ICT, $SM, $ALI, $MER, $BPI, and $SCC lead their respective sectors. $ALI has th
   
 **5. YTD vs Weekly Performance**
 
-All filtered stocks have an average of -2.429% YTD performance higher than the previous trading session's -1.237% and -2.24% Weekly performance lower than yesterday’s -1.51%. Both intersect at the quadrant 3/lagging area. $ATN has the highest YTD% performance (46.15%) among the 93 filtered stocks while $APL has the lowest (-38.75%). $NOW has the highest Weekly% performance (12.93%) while $EEI has the lowest (-14.83%).
+All filtered stocks have an average of -2.429% YTD performance higher than the previous trading session's -1.237% and -2.24% Weekly performance lower than yesterday (-1.51%). Both intersect at the quadrant 3/lagging area. $ATN has the highest YTD% performance (46.15%) among the 93 filtered stocks while $APL has the lowest (-38.75%). $NOW has the highest Weekly% performance (12.93%) while $EEI has the lowest (-14.83%).
 
 ![image](https://user-images.githubusercontent.com/103119533/162972608-afb2d83e-6954-4a24-aaa6-8d0f503b08ca.png)
   
