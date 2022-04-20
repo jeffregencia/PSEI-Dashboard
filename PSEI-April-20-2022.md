@@ -47,6 +47,10 @@ All filtered stocks have an average of -0.457% YTD performance higher than the p
 
 ![image](https://user-images.githubusercontent.com/103119533/164246261-e73f4070-7fb6-4c00-b1b3-ddcce3167195.png)
 
+<blockquote class="twitter-tweet"><p lang="in" dir="ltr"><a href="https://twitter.com/hashtag/FY2021Earnings?src=hash&amp;ref_src=twsrc%5Etfw">#FY2021Earnings</a> (2021 vs. 2020) <a href="https://twitter.com/search?q=%24GMA&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$GMA</a> 7 attrib. P7.53bn (+26%), 4Q P1.55bn (-26% YoY, -34% QoQ)<br>EPS P2.23, 7x</p>&mdash; 2TradeAsia (@2TradeAsia) <a href="https://twitter.com/2TradeAsia/status/1516568787100741634?ref_src=twsrc%5Etfw">April 20, 2022</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">$GMA7: The company reported a net income of Php 7.5 Bn in 2021, up by 26% YoY as they take lion&#39;s share of campaign ads after ABS-CBN was denied for franchise renewal in 2020.</p>&mdash; FirstMetroSec (@firstmetrosec) <a href="https://twitter.com/firstmetrosec/status/1516587410640883712?ref_src=twsrc%5Etfw">April 20, 2022</a></blockquote>
+
 **6. Momentum vs Volatility vs Trend**
 
 All filtered stocks have an average of 22.50 Volatility rating (low volatility) lower than last trading session's 23.34 rating and 48.94 Momentum rating (downside momentum) higher than last trading session’s 47.65 rating. $DMW has the highest volatility rating (60.26) among the 95 filtered stocks while $GSMI has the lowest (9.14). $ABA has the highest momentum rating (73.88) among the 95 filtered stocks while $MRC has the lowest (29.87).
